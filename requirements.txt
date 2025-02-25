@@ -1,9 +1,14 @@
 streamlit==1.28.0
 keras-ocr==0.9.3
-easyocr
 numpy==1.26.2
 python-dotenv==1.0.0
-together
+together>=1.4.1
 pypdf2==3.0.1
 python-multipart==0.0.6
-tensorflow
+tensorflow==2.16.1
+Pillow==10.0.1
+opencv-python-headless==4.8.1.78
+easyocr==1.7.0
+torch>=2.2.0
+torchvision>=0.16.2
+requests==2.31.0
