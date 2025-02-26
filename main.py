@@ -350,4 +350,17 @@ if 'submitted' in st.session_state and st.session_state.submitted:
 st.markdown("---")
 st.markdown("🔹 **Disclaimer**: Consult a CA for official tax filing.")
 
+<<<<<<< HEAD
 st.markdown("<h2 style='text-align: center;'>✨Creatively innovated with passion, by Keerthi Sai. 🚀</h2>", unsafe_allow_html=True)
+=======
+import streamlit as st
+
+# Your main content here
+
+st.markdown(
+    "<h2 style='text-align: center;'>✨ Creatively innovated with passion, by Keerthi Sai. 🚀</h2>",
+    unsafe_allow_html=True
+)
+
+
+>>>>>>> 03706d8fdda36e0977431c9d724624254fb7b1e4
